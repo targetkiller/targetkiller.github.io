@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TQ blog</title>
+  <icon>https://www.gravatar.com/avatar/6c5f7c2b2fbcac68a5f7ae53a4682124</icon>
+  <subtitle>No one is king for long</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://tqtan.cafe/"/>
+  <updated>2019-07-07T11:27:56.370Z</updated>
+  <id>http://tqtan.cafe/</id>
+  
+  <author>
+    <name>tqtan</name>
+    <email>targetkillering@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>拖拽粘性小红球Canvas实现</title>
+    <link href="http://tqtan.cafe/2016/03/27/drag-a-ball/"/>
+    <id>http://tqtan.cafe/2016/03/27/drag-a-ball/</id>
+    <published>2016-03-27T09:15:21.000Z</published>
+    <updated>2019-07-07T11:27:56.370Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;相信大家都见过之前手机QQ中神奇的“&lt;a href=&quot;https://isux.tencent.com/qq-mobile-off-duty.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;一键下班&lt;/a&gt;”功能，如图：&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="demo" scheme="http://tqtan.cafe/categories/demo/"/>
+    
+    
+      <category term="前端" scheme="http://tqtan.cafe/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="教程" scheme="http://tqtan.cafe/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="demo" scheme="http://tqtan.cafe/tags/demo/"/>
+    
+      <category term="canvas" scheme="http://tqtan.cafe/tags/canvas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2015年终总结</title>
+    <link href="http://tqtan.cafe/2016/01/01/summary-2015/"/>
+    <id>http://tqtan.cafe/2016/01/01/summary-2015/</id>
+    <published>2015-12-31T17:57:24.000Z</published>
+    <updated>2019-07-07T09:28:54.273Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;em&gt;&lt;strong&gt;No one will be king for long&lt;/strong&gt;&lt;/em&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="个人" scheme="http://tqtan.cafe/categories/%E4%B8%AA%E4%BA%BA/"/>
+    
+    
+      <category term="年终总结" scheme="http://tqtan.cafe/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    
+      <category term="2015" scheme="http://tqtan.cafe/tags/2015/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>H5动感影集性能分析</title>
+    <link href="http://tqtan.cafe/2015/11/26/dynamic-album-performance-analysis/"/>
+    <id>http://tqtan.cafe/2015/11/26/dynamic-album-performance-analysis/</id>
+    <published>2015-11-25T16:25:54.000Z</published>
+    <updated>2019-07-07T09:28:54.272Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;em&gt;“你听说过动感影集么?”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;动感影集&lt;/code&gt;&lt;/strong&gt;是QQ空间新功能，可以将静态的图片轻松转变为动态的视频集，且载体是HTML5（简称H5）页面，意味着可以随时分享到空间或朋友圈给好友欣赏！&lt;br&gt;&lt;
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://tqtan.cafe/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="前端" scheme="http://tqtan.cafe/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="HTML5" scheme="http://tqtan.cafe/tags/HTML5/"/>
+    
+      <category term="开发者工具" scheme="http://tqtan.cafe/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="性能分析" scheme="http://tqtan.cafe/tags/%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>玩转HTML5移动页面</title>
+    <link href="http://tqtan.cafe/2015/01/31/play-with-h5/"/>
+    <id>http://tqtan.cafe/2015/01/31/play-with-h5/</id>
+    <published>2015-01-31T13:12:23.000Z</published>
+    <updated>2019-07-07T09:28:54.273Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;标题起得有点大(๑´ㅂ`๑)，今天来谈谈H5移动页面的开发心得（技巧）。&lt;/p&gt;
+&lt;p&gt;一般情况下，拿到设计稿你有两种选择：&lt;br&gt;//条件表达式&lt;br&gt;产物＝设计稿处理？静态输出：让页面动起来；&lt;/p&gt;
+&lt;p&gt;作为一个有志向的前端，当然不会让页面生硬地静态展示啦(๑´ㅁ`
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://tqtan.cafe/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="前端" scheme="http://tqtan.cafe/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="HTML5" scheme="http://tqtan.cafe/tags/HTML5/"/>
+    
+      <category term="移动端" scheme="http://tqtan.cafe/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2014年终总结</title>
+    <link href="http://tqtan.cafe/2015/01/01/summary-2014/"/>
+    <id>http://tqtan.cafe/2015/01/01/summary-2014/</id>
+    <published>2014-12-31T16:49:02.000Z</published>
+    <updated>2019-07-07T09:28:54.273Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;每年一篇年终总结，写一写2014我自己的变化。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;前方流水账高能，不喜者快逃离！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;实话说，今年是很不满意自己的一年。&lt;br&gt;有人说工作后会磨灭了青春的热情，我一直不相信，但是不得不承认。&lt;br&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="个人" scheme="http://tqtan.cafe/categories/%E4%B8%AA%E4%BA%BA/"/>
+    
+    
+      <category term="2014" scheme="http://tqtan.cafe/tags/2014/"/>
+    
+      <category term="年终总结" scheme="http://tqtan.cafe/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+</feed>
