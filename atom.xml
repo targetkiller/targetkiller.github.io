@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>TQ blog</title>
+  <title>tqtan</title>
   <icon>https://www.gravatar.com/avatar/6c5f7c2b2fbcac68a5f7ae53a4682124</icon>
-  <subtitle>No one is king for long</subtitle>
+  <subtitle>Take your time and drink a coffee.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tqtan.cafe/"/>
