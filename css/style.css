@@ -194,3 +194,35 @@ button:hover, button:active { background: rgba(0,0,0,0.2); }
 }
 
 .ds-powered-by{display: none!important;}
+
+/* tqtan customized */
+
+.excerpt-link {
+  background-color: #e74c3c;
+  border-radius: 6px;
+  padding: 5px 12px;
+  font-size: 16px;
+  color: #fff;
+}
+
+.excerpt-link:hover {
+  background-color: #c0392b;
+  color: #fff;
+}
+
+.post-thumb {
+  margin: 1.6rem 0 0 0;
+  overflow: hidden;
+}
+
+.post-thumb img {
+  width: 60%;
+  height: auto;
+  transition: all ease-in-out .15s;
+  transform: scale(1);
+}
+
+.post-thumb:hover img {
+  transform: scale(1.05);
+}
+
