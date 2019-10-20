@@ -216,13 +216,17 @@ button:hover, button:active { background: rgba(0,0,0,0.2); }
 }
 
 .post-thumb img {
-  width: 60%;
+  width: 100%;
   height: auto;
   transition: all ease-in-out .15s;
   transform: scale(1);
+  display: block;
 }
 
 .post-thumb:hover img {
-  transform: scale(1.05);
+  transform: scale(1.05); 
 }
 
+.post-title a {
+  line-height: 1.4;
+}
