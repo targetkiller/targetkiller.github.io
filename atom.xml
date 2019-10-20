@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tqtan.cafe/"/>
-  <updated>2019-10-19T20:08:57.865Z</updated>
+  <updated>2019-10-20T06:38:20.611Z</updated>
   <id>http://tqtan.cafe/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://tqtan.cafe/2019/10/19/travel-2019-usa-east/"/>
     <id>http://tqtan.cafe/2019/10/19/travel-2019-usa-east/</id>
     <published>2019-10-18T16:00:00.000Z</published>
-    <updated>2019-10-19T20:08:57.865Z</updated>
+    <updated>2019-10-20T06:38:20.611Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;2019 春节去了美国西部，感受到了大自然的魅力，写了游记&lt;a href=&quot;http://tqtan.cafe/2019/02/15/travel-2019-usa-west/&quot;&gt;《美国 |
+          &lt;p&gt;偶然机会，看到南航 &lt;code&gt;广州-纽约&lt;/code&gt; 机票打折，往返只需要 3000，当时想也没想就抢了，还是国庆黄金时段。可惜是限定了时段的那种，只能够 3 号出发，13
         
       
     
@@ -48,6 +48,8 @@
     
       <category term="波士顿" scheme="http://tqtan.cafe/tags/%E6%B3%A2%E5%A3%AB%E9%A1%BF/"/>
     
+      <category term="新泽西" scheme="http://tqtan.cafe/tags/%E6%96%B0%E6%B3%BD%E8%A5%BF/"/>
+    
       <category term="费城" scheme="http://tqtan.cafe/tags/%E8%B4%B9%E5%9F%8E/"/>
     
       <category term="华盛顿" scheme="http://tqtan.cafe/tags/%E5%8D%8E%E7%9B%9B%E9%A1%BF/"/>
@@ -59,7 +61,7 @@
     <link href="http://tqtan.cafe/2019/02/15/travel-2019-usa-west/"/>
     <id>http://tqtan.cafe/2019/02/15/travel-2019-usa-west/</id>
     <published>2019-02-14T16:00:00.000Z</published>
-    <updated>2019-10-19T20:01:42.814Z</updated>
+    <updated>2019-10-20T06:25:08.944Z</updated>
     
     <summary type="html">
     
@@ -112,9 +114,9 @@
       <category term="总结" scheme="http://tqtan.cafe/categories/%E6%80%BB%E7%BB%93/"/>
     
     
-      <category term="年终总结" scheme="http://tqtan.cafe/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
-    
       <category term="2015" scheme="http://tqtan.cafe/tags/2015/"/>
+    
+      <category term="年终总结" scheme="http://tqtan.cafe/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
@@ -144,9 +146,9 @@
       <category term="总结" scheme="http://tqtan.cafe/categories/%E6%80%BB%E7%BB%93/"/>
     
     
-      <category term="2014" scheme="http://tqtan.cafe/tags/2014/"/>
-    
       <category term="年终总结" scheme="http://tqtan.cafe/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    
+      <category term="2014" scheme="http://tqtan.cafe/tags/2014/"/>
     
   </entry>
   
