@@ -19,6 +19,8 @@
   <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="atom.xml">
   
   
+  
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 </head>
 
 <body class="home-template">
@@ -346,6 +348,17 @@
     
 </div>
 
+  <div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'e19PodNAKqvISxBAMnOi0eCA-gzGzoHsz',
+            appKey: '3SySMEXyyA9vu1pN9HPzuEus',
+            placeholder: '随便写点什么吧',
+            avatar: 'monsterid',
+            verify: true,
+        })
+    </script>
 </main>
 
 
