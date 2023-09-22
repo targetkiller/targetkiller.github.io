@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repo: https://github.com/targetkiller/targetkiller.github.io
+  branch: master
