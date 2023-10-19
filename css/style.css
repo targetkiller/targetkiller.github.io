@@ -215,16 +215,16 @@ button:hover, button:active { background: rgba(0,0,0,0.2); }
   overflow: hidden;
 }
 
-.post-thumb img {
+.post-thumb div {
   width: 100%;
   height: auto;
-  transition: all ease-in-out .15s;
+  transition: all ease-in-out 2s;
   transform: scale(1);
   display: block;
 }
 
-.post-thumb:hover img {
-  transform: scale(1.05); 
+.post-thumb:hover div {
+  transform: scale(1.2); 
 }
 
 .post-title a {
