@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "682N327M9.com.hsbc.lab.polygonid",
-                "paths": [ "*" ]
+                "paths": [ "/hsbcopen" ]
             },
             {
                 "appID": "682N327M9.com.hsbc.lab.fakepayme.FakePayMe",
-                "paths": [ "*" ]
+                "paths": [ "/payme" ]
             }
         ]
     }
