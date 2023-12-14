@@ -3,12 +3,12 @@
         "apps": [],
         "details": [
             {
-                "appID": "682N327M9.com.hsbc.lab.polygonid",
-                "paths": [ "/hsbcopen" ]
+                "appID": "CMDV72B98A.com.hsbc.lab.polygonid",
+                "paths": [ "/hsbcopen/*" ]
             },
             {
-                "appID": "682N327M9.com.hsbc.lab.fakepayme.FakePayMe",
-                "paths": [ "/payme" ]
+                "appID": "CMDV72B98A.com.hsbc.lab.fakepayme.FakePayMe",
+                "paths": [ "/payme/*" ]
             }
         ]
     }
